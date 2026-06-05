@@ -1,0 +1,1613 @@
+{
+  "menus": [
+    {
+      "id": "70f58d8746ccc5deb06227a0ae8b5dea",
+      "name": "主站推荐",
+      "icon": "far fa-star"
+    },
+    {
+      "id": "7670c954d3d79020088965aa9ed31ea5",
+      "name": "编程学习",
+      "icon": "fas fa-laptop-code",
+      "children": [
+        { "id": "7670c954d3d79020088965aa9ed31ea5", "name": "Web应用" },
+        { "id": "acd617ea241c9daf2f251963bc03c6e3", "name": "云服务器" },
+        { "id": "e0aade1cd567f730e498e248bbd6acdf", "name": "办公学习" }
+      ]
+    },
+    {
+      "id": "a4d417d7850fde0cd00e4af576621a63",
+      "name": "悠闲娱乐",
+      "icon": "fas fa-film",
+      "children": [
+        { "id": "a4d417d7850fde0cd00e4af576621a63", "name": "影音视频" },
+        { "id": "285771ccb52a0a4168980272b8e7c3fe", "name": "游戏模组" },
+        { "id": "5e6e1089ffbc5d7819c0d0f1f7b31ebc", "name": "网盘资源" }
+      ]
+    },
+    {
+      "id": "7866a35b09d466b9cf0295af54d30d53",
+      "name": "素材资源",
+      "icon": "far fa-folder-open",
+      "children": [
+        { "id": "7866a35b09d466b9cf0295af54d30d53", "name": "图标素材" },
+        { "id": "ff65f7f9721757bf11b0b0c95f1b9446", "name": "平面素材" },
+        { "id": "722d3693fc0b9344bb46ee220beac1b6", "name": "字体资源" },
+        { "id": "113a0a745b4169af0f7646269c12ae66", "name": "PPT资源" }
+      ]
+    },
+    {
+      "id": "0d635f7d6344865764bab31ae16574d7",
+      "name": "推荐应用",
+      "icon": "fab fa-app-store-ios",
+      "children": [
+        { "id": "0d635f7d6344865764bab31ae16574d7", "name": "内网穿透" },
+        { "id": "817b8be1cf8e4b7ca84bcbc8f2194dc7", "name": "百科全书" },
+        { "id": "f2fab6f664ec4de27ea6c0696addd9b2", "name": "磁力搜索" }
+      ]
+    },
+    {
+      "id": "13a0e1cc22ccc31b31242a6046230729",
+      "name": "谷歌插件",
+      "icon": "fa fa-chrome",
+      "children": [
+        { "id": "13a0e1cc22ccc31b31242a6046230729", "name": "谷歌插件" }
+      ]
+    },
+    {
+      "id": "b8ff4f0137d36e55384b2ca047544b31",
+      "name": "ChatGPT",
+      "icon": "fas fa-robot",
+      "children": [
+        { "id": "b8ff4f0137d36e55384b2ca047544b31", "name": "AI应用" }
+      ]
+    },
+    {
+      "id": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "name": "Docker",
+      "icon": "fab fa-docker",
+      "children": [
+        { "id": "c5fd214cdd0d2b3b4272e73b022ba5c2", "name": "Docker" }
+      ]
+    },
+    {
+      "id": "a22caa838e8e6f1879ddfcc857e5a16d",
+      "name": "无法访问",
+      "icon": "fas fa-unlink"
+    }
+  ],
+  "categories": [
+    {
+      "id": "70f58d8746ccc5deb06227a0ae8b5dea",
+      "name": "主站推荐",
+      "items": [
+        {
+          "title": "小A猪崽",
+          "description": "丰富的导航站",
+          "url": "https://nav.xazz.top",
+          "icon": "assets/images/logos/xazz.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "OpenClaw",
+          "description": "强大的开源本地AI助手",
+          "url": "https://openclaw.ai/",
+          "icon": "assets/images/logos/openclaw.png",
+          "target": "_blank"
+        },
+        {
+          "title": "博客",
+          "description": "站长的博客",
+          "url": "https://xazz.top",
+          "icon": "assets/images/logos/博客.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "关于我",
+          "description": "站长的个人介绍",
+          "url": "https://doks.xazz.top/blog",
+          "icon": "assets/images/logos/关于我.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "文档库",
+          "description": "小A猪崽的文档库",
+          "url": "https://doks.xazz.top",
+          "icon": "assets/images/logos/doks.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "探针",
+          "description": "哪吒探针管理",
+          "url": "https://vps.xazz.top",
+          "icon": "assets/images/logos/探针.svg",
+          "target": "_blank"
+        },
+        {
+          "title": "开源",
+          "description": "导航站GitHub开源",
+          "url": "https://github.com/i-kirito/nav.github.io",
+          "icon": "assets/images/logos/github.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Chatgpt镜像",
+          "description": "不需要加速也能上",
+          "url": "https://chat.xazz.top/",
+          "icon": "assets/images/logos/chatgpt.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Wallhaven",
+          "description": "一个非常丰富的图库网",
+          "url": "https://wallhaven.cc",
+          "icon": "assets/images/logos/wallhaven.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "哔哩哔哩",
+          "description": "年轻人的视频平台",
+          "url": "https://bilibili.com/",
+          "icon": "assets/images/logos/bilibili.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Steam",
+          "description": "大伙都在玩的游戏平台",
+          "url": "https://store.steampowered.com/",
+          "icon": "assets/images/logos/steam.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Notion",
+          "description": "Notion笔记，简洁便利",
+          "url": "https://www.notion.so/",
+          "icon": "assets/images/logos/notion.png",
+          "target": "_blank"
+        },
+        {
+          "title": "Chrome",
+          "description": "谷歌搜索，最好用的搜索引擎",
+          "url": "https://www.google.com/",
+          "icon": "assets/images/logos/google.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "AstrBot",
+          "description": "AstrBot 多平台 AI 聊天机器人框架，支持插件扩展",
+          "url": "https://docs.astrbot.app/",
+          "icon": "assets/images/logos/astrbot.png",
+          "target": "_blank"
+        },
+        {
+          "title": "NapCat",
+          "description": "NapCat 现代化 QQ 协议端，基于 QQNT",
+          "url": "https://napneko.github.io/",
+          "icon": "assets/images/logos/napcat.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "7670c954d3d79020088965aa9ed31ea5",
+      "name": "Web应用",
+      "items": [
+        {
+          "title": "编程词典",
+          "description": "编程语言相关知识查询",
+          "url": "http://dict.code-nav.cn/",
+          "icon": "assets/images/logos/编程词典.svg",
+          "target": "_blank"
+        },
+        {
+          "title": "W3School",
+          "description": "你可以找到你所需要的所有的网站建设教程",
+          "url": "https://www.w3school.com.cn",
+          "icon": "assets/images/logos/W3School.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Mozilla开发者社区",
+          "description": "MDN系统化学习web吧",
+          "url": "https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web",
+          "icon": "assets/images/logos/mo.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "jsDelivr",
+          "description": "利用jsdelivr加速自己的图床",
+          "url": "https://www.jsdelivr.com/",
+          "icon": "assets/images/logos/js.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "GitHub主页美化",
+          "description": "查看GitHub开源作者的美化fork他们",
+          "url": "https://zzetao.github.io/awesome-github-profile/",
+          "icon": "assets/images/logos/fork.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Runoob",
+          "description": "Web菜鸟教程",
+          "url": "https://www.runoob.com/",
+          "icon": "assets/images/logos/cainiao.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Markdown",
+          "description": "markdown语法教程",
+          "url": "https://markdown.com.cn/",
+          "icon": "assets/images/logos/markdown.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "jQuery插件库",
+          "description": "收集最全最新最好的js插件",
+          "url": "https://www.jq22.com/",
+          "icon": "assets/images/logos/jquary.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Bootstrap Studio",
+          "description": "编辑web网站，无需代码",
+          "url": "https://bootstrapstudio.io/",
+          "icon": "assets/images/logos/bs.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "CodePen",
+          "description": "免费下载css和js模板",
+          "url": "https://codepen.io/",
+          "icon": "assets/images/logos/codepen.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Zion",
+          "description": "无代码开发微信小程序",
+          "url": "https://www.functorz.com/",
+          "icon": "assets/images/logos/zion.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Markdown-badges",
+          "description": "获取markdown写法的badges包",
+          "url": "https://ileriayo.github.io/markdown-badges/",
+          "icon": "assets/images/logos/badges.png",
+          "target": "_blank"
+        },
+        {
+          "title": "1panel",
+          "description": "开源的服务器web管理面板",
+          "url": "https://1panel.cn/",
+          "icon": "assets/images/logos/1panel.png",
+          "target": "_blank"
+        },
+        {
+          "title": "Can I Use",
+          "description": "查浏览器 CSS/JS 兼容性，前端必备",
+          "url": "https://caniuse.com/",
+          "icon": "assets/images/logos/caniuse.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "DevDocs",
+          "description": "多语言开发文档聚合，离线可用",
+          "url": "https://devdocs.io/",
+          "icon": "assets/images/logos/devdocs.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Regex101",
+          "description": "在线正则表达式调试，实时高亮",
+          "url": "https://regex101.com/",
+          "icon": "assets/images/logos/regex101.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "acd617ea241c9daf2f251963bc03c6e3",
+      "name": "云服务器",
+      "items": [
+        {
+          "title": "阿里云",
+          "description": "上云就上阿里云",
+          "url": "https://www.aliyun.com/",
+          "icon": "assets/images/logos/阿里云.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "腾讯云",
+          "description": "产业智变，云启未来",
+          "url": "https://cloud.tencent.com/",
+          "icon": "assets/images/logos/腾讯云.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "极云普惠云电脑",
+          "description": "云电脑-云游戏-手机变电脑软件",
+          "url": "https://www.ji-cloud.cn/",
+          "icon": "assets/images/logos/极云普惠云电脑.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Vultr",
+          "description": "提供了全球多个数据中心，实时部署云服务器，具有高效稳定的性能和安全保障",
+          "url": "https://www.vultr.com/",
+          "icon": "assets/images/logos/vultr.webp",
+          "target": "_blank"
+        },
+        {
+          "title": "Aws",
+          "description": "亚马逊云服务，提供了包括计算、存储、数据库、网络等在内的各种云服务",
+          "url": "https://aws.amazon.com/cn/",
+          "icon": "assets/images/logos/aws.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "DigitalOcean",
+          "description": "数字海洋，它的特点是简单易用、强大的功能和优秀的性能",
+          "url": "https://m.do.co/c/d88163487411",
+          "icon": "assets/images/logos/do.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Google Cloud",
+          "description": "基于云计算技术的云服务平台，提供包括计算、存储、数据库、网络等多种云服务",
+          "url": "https://cloud.google.com/",
+          "icon": "assets/images/logos/谷歌云.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Azure",
+          "description": "微软云提供了各种基础设施即服务（IaaS）、平台即服务（PaaS）和软件即服务（SaaS）",
+          "url": "https://azure.microsoft.com/",
+          "icon": "assets/images/logos/azure.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Oracle",
+          "description": "主要特点包括高性能、高可靠性、高扩展性、安全性好等优点",
+          "url": "https://www.oracle.com/cn/",
+          "icon": "assets/images/logos/Oracle.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Vercel",
+          "description": "轻松地构建、部署和扩展 Web 应用程序。GitHub拉取",
+          "url": "https://vercel.com/",
+          "icon": "assets/images/logos/vercel.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Railway",
+          "description": "轻松地构建、部署和扩展django",
+          "url": "https://railway.app/",
+          "icon": "assets/images/logos/railway.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Heroku",
+          "description": "云计算平台，快速构建、部署和托管Web应用程序",
+          "url": "https://www.heroku.com/",
+          "icon": "assets/images/logos/heroku.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Cloudflare",
+          "description": "大伙都知道的CF",
+          "url": "https://www.cloudflare.com/zh-cn/",
+          "icon": "assets/images/logos/cloudflare.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "e0aade1cd567f730e498e248bbd6acdf",
+      "name": "办公学习",
+      "items": [
+        {
+          "title": "GitHub",
+          "description": "最热门知名的开源网站",
+          "url": "https://github.com/",
+          "icon": "assets/images/logos/github.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "GitLab",
+          "description": "开源的代码托管平台，类似于GitHub",
+          "url": "https://about.gitlab.com/",
+          "icon": "assets/images/logos/gitlab.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Gitee",
+          "description": "GitHub中国镜像站代理",
+          "url": "https://gitee.com/",
+          "icon": "assets/images/logos/gitee.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "R2coding",
+          "description": "编程自学之路，是自学编程以来所用资源和分享内容的大聚合",
+          "url": "https://r2coding.com/",
+          "icon": "assets/images/logos/r2c.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "语雀",
+          "description": "优雅高效的在线文档编辑与协同工具",
+          "url": "https://www.yuque.com/",
+          "icon": "assets/images/logos/语雀.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "清华大学开源",
+          "description": "具有全球影响力的开源软件镜像站点",
+          "url": "https://mirror.tuna.tsinghua.edu.cn/",
+          "icon": "assets/images/logos/清华开源.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "有道词典",
+          "description": "免费，即时的多语种在线翻译",
+          "url": "https://www.youdao.com/",
+          "icon": "assets/images/logos/有道词典.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "谷歌翻译",
+          "description": "谷歌翻译",
+          "url": "https://translate.google.cn/",
+          "icon": "assets/images/logos/谷歌翻译.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Paperpass",
+          "description": "论文查重，每天免费一篇",
+          "url": "https://www.paperpass.com/",
+          "icon": "assets/images/logos/paperpass.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "CSDN",
+          "description": "中国最大的专业技术社区，包含了众多IT领域的技术文章和技术问答",
+          "url": "https://www.csdn.net/",
+          "icon": "assets/images/logos/csdn.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "掘金",
+          "description": "程序员交流社区和学习平台",
+          "url": "https://juejin.cn/",
+          "icon": "assets/images/logos/掘金.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "V2ex",
+          "description": "由设计师、程序员及有创意的人参与的社区",
+          "url": "https://www.v2ex.com/",
+          "icon": "assets/images/logos/v2ex.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Xmind",
+          "description": "方便思维导图的使用",
+          "url": "https://xmind.cn/",
+          "icon": "assets/images/logos/xmind.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "PDF在线编辑",
+          "description": "在线转换和编辑 PDF。合并、填写表格、签名等,无需下载或安装。",
+          "url": "https://onlinepdfedit.com/zh-cn/",
+          "icon": "assets/images/logos/pdf.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Stack Overflow",
+          "description": "程序员答疑圣地，全球最大技术问答社区",
+          "url": "https://stackoverflow.com/",
+          "icon": "assets/images/logos/stackoverflow.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "LeetCode",
+          "description": "算法刷题，面试必备",
+          "url": "https://leetcode.cn/",
+          "icon": "assets/images/logos/leetcode.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "a4d417d7850fde0cd00e4af576621a63",
+      "name": "影音视频",
+      "items": [
+        {
+          "title": "哔哩哔哩",
+          "description": "Bilibili 视频弹幕网站",
+          "url": "https://www.bilibili.com/",
+          "icon": "assets/images/logos/哔哩哔哩.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "网易云音乐",
+          "description": "163 网易云音乐",
+          "url": "https://music.163.com/",
+          "icon": "assets/images/logos/网易云音乐.jpg",
+          "target": "_blank"
+        },
+        {
+          "title": "免费音乐",
+          "description": "免费听下载全网音乐",
+          "url": "https://tool.liumingye.cn/music/#/",
+          "icon": "assets/images/logos/freemusic.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Emby",
+          "description": "Emby自建视频媒体库，自行搜索公益服务器",
+          "url": "https://emby.media/",
+          "icon": "assets/images/logos/emby.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Netflix",
+          "description": "流媒体视频服务提供商，提供广泛的电影和电视节目的流媒体服务",
+          "url": "https://www.netflix.com/",
+          "icon": "assets/images/logos/Netflix.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Disney+",
+          "description": "迪士尼、皮克斯、漫威、卢卡斯影业等品牌的电影、电视剧、纪录片、独家内容等",
+          "url": "https://www.disneyplus.com/",
+          "icon": "assets/images/logos/Disney+.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "YouTube",
+          "description": "世界上最大的在线视频平台",
+          "url": "https://www.youtube.com/",
+          "icon": "assets/images/logos/youtube.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "电影天堂（DYGOD）",
+          "description": "电影天堂（DYGOD），高清电影下载",
+          "url": "https://www.dygod.net/",
+          "icon": "assets/images/logos/电影天堂.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "搜片网",
+          "description": "快速搜索热播电视剧及电影",
+          "url": "https://soupian.pro/",
+          "icon": "assets/images/logos/soupian.webp",
+          "target": "_blank"
+        },
+        {
+          "title": "動畫線上看",
+          "description": "上百部動畫在綫免費看~",
+          "url": "https://anime1.me/",
+          "icon": "assets/images/logos/动漫.webp",
+          "target": "_blank"
+        },
+        {
+          "title": "巴卡漫画",
+          "description": "bakamh巴卡漫画 韩漫",
+          "url": "https://bakamh.com/",
+          "icon": "assets/images/logos/baka.png",
+          "target": "_blank"
+        },
+        {
+          "title": "JavDB",
+          "description": "前所未有的领域 艺人影片",
+          "url": "https://javdb368.com/",
+          "icon": "assets/images/logos/javdb.png",
+          "target": "_blank",
+          "r18": true
+        },
+        {
+          "title": "摸鱼TV",
+          "description": "在线看电影电视剧，资源丰富",
+          "url": "https://www.moyu.tv/",
+          "icon": "https://www.moyu.tv/favicon.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "AGE动漫",
+          "description": "国漫日漫在线看，更新及时",
+          "url": "https://www.agedm.org/",
+          "icon": "assets/images/logos/agedm.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "285771ccb52a0a4168980272b8e7c3fe",
+      "name": "游戏模组",
+      "items": [
+        {
+          "title": "Steam",
+          "description": "大伙都在玩的游戏平台",
+          "url": "https://store.steampowered.com/",
+          "icon": "assets/images/logos/steam.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "SteamDB",
+          "description": "查看steam数据和不同区域价格",
+          "url": "https://steamdb.info/",
+          "icon": "assets/images/logos/steamdb.svg",
+          "target": "_blank"
+        },
+        {
+          "title": "Steam主页美化",
+          "description": "想要不一样的steam主页设计？点我",
+          "url": "https://steam.design/",
+          "icon": "assets/images/logos/steamdesign.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Epic",
+          "description": "一个游戏开发与发行公司",
+          "url": "https://www.epicgames.com/",
+          "icon": "assets/images/logos/epic.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "itcho",
+          "description": "致力于允许独立游戏制作者发布和销售其作品",
+          "url": "https://itch.io/",
+          "icon": "assets/images/logos/itcho.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "3dm论坛",
+          "description": "游戏破解论坛",
+          "url": "https://bbs.3dmgame.com/",
+          "icon": "assets/images/logos/3dm.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "mcbbs",
+          "description": "我的世界中文官方论坛",
+          "url": "https://www.mcbbs.co/forum.php",
+          "icon": "assets/images/logos/mcbbs.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Curseforge",
+          "description": "我的世界最全mod网站",
+          "url": "https://www.curseforge.com/minecraft/modpacks",
+          "icon": "assets/images/logos/mod.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Nexus Mods",
+          "description": "为 PC 游戏玩家提供 mod 的网站",
+          "url": "https://www.nexusmods.com/",
+          "icon": "assets/images/logos/nexus.webp",
+          "target": "_blank"
+        },
+        {
+          "title": "QooApp",
+          "description": "国际服游戏平台",
+          "url": "https://qoo-app.com",
+          "icon": "assets/images/logos/qooapp.webp",
+          "target": "_blank"
+        },
+        {
+          "title": "IGDB",
+          "description": "游戏数据库，评分攻略查询",
+          "url": "https://www.igdb.com/",
+          "icon": "assets/images/logos/igdb.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "GG.deals",
+          "description": "多平台游戏价格比较，省钱必备",
+          "url": "https://gg.deals/",
+          "icon": "assets/images/logos/ggdeals.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "5e6e1089ffbc5d7819c0d0f1f7b31ebc",
+      "name": "网盘资源",
+      "items": [
+        {
+          "title": "百度网盘",
+          "description": "百度云盘，最慢的盘",
+          "url": "http://pan.baidu.com/",
+          "icon": "assets/images/logos/百度网盘.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "阿里云盘",
+          "description": "阿里云盘，你的数字世界",
+          "url": "https://www.aliyundrive.com/",
+          "icon": "assets/images/logos/阿里云盘.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "谷歌云盘",
+          "description": "随时随地存取，它还提供了共享和协作功能",
+          "url": "#",
+          "icon": "assets/images/logos/谷歌云盘.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "OneDrive",
+          "description": "微软云盘，支持备份Windows",
+          "url": "#",
+          "icon": "assets/images/logos/OneDrive.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Nextcloud",
+          "description": "自托管的云存储，开源云盘",
+          "url": "#",
+          "icon": "assets/images/logos/nextcloud.webp",
+          "target": "_blank"
+        },
+        {
+          "title": "Alist",
+          "description": "一个支持多种存储的文件列表程序，软路由搭载",
+          "url": "#",
+          "icon": "assets/images/logos/alist.svg",
+          "target": "_blank"
+        },
+        {
+          "title": "可道云",
+          "description": "云端存储&协同办公新体验",
+          "url": "#",
+          "icon": "assets/images/logos/可道云.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "蓝奏云",
+          "description": "天下武功，唯快不破",
+          "url": "https://www.lanzoui.com/",
+          "icon": "assets/images/logos/蓝奏云.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "坚果云",
+          "description": "任何设备，随时随地实现文件共享",
+          "url": "#",
+          "icon": "assets/images/logos/坚果云.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "夸克网盘",
+          "description": "网盘与浏览器结合的网盘 速度快",
+          "url": "#",
+          "icon": "assets/images/logos/夸克网盘.icon",
+          "target": "_blank"
+        },
+        {
+          "title": "115网盘",
+          "description": "大内存储存 不限速",
+          "url": "#",
+          "icon": "assets/images/logos/115网盘.svg",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "7866a35b09d466b9cf0295af54d30d53",
+      "name": "图标素材",
+      "items": [
+        {
+          "title": "Aconvert",
+          "description": "图片转化为ico格式",
+          "url": "https://www.aconvert.com/",
+          "icon": "assets/images/logos/ac.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "icon icons",
+          "description": "搜索全网logo图标",
+          "url": "https://icon-icons.com/",
+          "icon": "assets/images/logos/icon-icons.svg",
+          "target": "_blank"
+        },
+        {
+          "title": "Font Awesome Icon",
+          "description": "Web前端使用率最高的图标",
+          "url": "https://fontawesome.com/icons/",
+          "icon": "assets/images/logos/font-awesome.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "icomoon",
+          "description": "图标字体下载",
+          "url": "https://icomoon.io/app/#/select",
+          "icon": "assets/images/logos/icomoon.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "iconfont",
+          "description": "阿里巴巴矢量图标库",
+          "url": "http://www.iconfont.cn",
+          "icon": "assets/images/logos/iconfont.svg",
+          "target": "_blank"
+        },
+        {
+          "title": "ion icons",
+          "description": "The premium icon font for Ionic Framework",
+          "url": "http://ionicons.com/",
+          "icon": "assets/images/logos/ionicons.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "iconscout",
+          "description": "Over 6.1 Million+ Design Assets",
+          "url": "https://iconscout.com/",
+          "icon": "assets/images/logos/iconscout.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "iconmonstr",
+          "description": "Free simple icons for your next project",
+          "url": "https://iconmonstr.com/",
+          "icon": "assets/images/logos/iconm.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Icon Archive",
+          "description": "Search 590,912 free icons",
+          "url": "http://www.iconarchive.com/",
+          "icon": "assets/images/logos/icona.svg",
+          "target": "_blank"
+        },
+        {
+          "title": "Flaticon",
+          "description": "634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT",
+          "url": "https://www.flaticon.com/",
+          "icon": "assets/images/logos/flaticon.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Material icons",
+          "description": "谷歌字体库的图标",
+          "url": "https://material.io/icons/",
+          "icon": "assets/images/logos/material.svg",
+          "target": "_blank"
+        },
+        {
+          "title": "iOS Icon Gallery",
+          "description": "ios app的应用图标",
+          "url": "http://iosicongallery.com/",
+          "icon": "assets/images/logos/iosicon.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "World Vector Logo",
+          "description": "世界各地厂商的logo",
+          "url": "https://worldvectorlogo.com/",
+          "icon": "assets/images/logos/worldico.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Iconfinder",
+          "description": "2,100,000+ free and premium vector icons",
+          "url": "https://www.iconfinder.com",
+          "icon": "assets/images/logos/Iconfinder.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "ff65f7f9721757bf11b0b0c95f1b9446",
+      "name": "平面素材",
+      "items": [
+        {
+          "title": "Wallpaper Abyss",
+          "description": "高清壁纸，桌面背景",
+          "url": "https://wall.alphacoders.com/",
+          "icon": "assets/images/logos/wa.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Pixiv",
+          "description": "大名鼎鼎的P站",
+          "url": "https://www.pixiv.net/",
+          "icon": "assets/images/logos/pixiv.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "ProcessOn",
+          "description": "免费在线作图、实时协作",
+          "url": "https://www.processon.com/",
+          "icon": "assets/images/logos/ProcessOn.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Freepik",
+          "description": "More than a million free vectors, PSD, photos and free icons",
+          "url": "https://www.freepik.com/",
+          "icon": "assets/images/logos/freepik.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "365PSD",
+          "description": "Free PSD &amp; Graphics, Illustrations",
+          "url": "https://365psd.com/",
+          "icon": "assets/images/logos/365psd.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "千图网",
+          "description": "专注免费设计素材下载的网站",
+          "url": "http://www.58pic.com/",
+          "icon": "assets/images/logos/qiantu.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "千库网",
+          "description": "免费 png 图片背景素材下载",
+          "url": "http://588ku.com/",
+          "icon": "assets/images/logos/qianku.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "我图网",
+          "description": "我图网，提供图片素材及模板下载，专注正版设计作品交易",
+          "url": "http://www.ooopic.com/",
+          "icon": "assets/images/logos/wotu.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "昵图网",
+          "description": "原创素材共享平台",
+          "url": "http://www.nipic.com/",
+          "icon": "assets/images/logos/nitu.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "懒人图库",
+          "description": "懒人图库专注于提供网页素材下载",
+          "url": "http://www.lanrentuku.com/",
+          "icon": "assets/images/logos/lanrentuku.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "RemoveBg",
+          "description": "在线抠图全自动",
+          "url": "https://www.remove.bg/zh",
+          "icon": "assets/images/logos/抠图.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Giphy",
+          "description": "快速搜索gif图",
+          "url": "https://giphy.com/",
+          "icon": "assets/images/logos/giphy.png",
+          "target": "_blank"
+        },
+        {
+          "title": "Unsplash",
+          "description": "免费高清无版权图库，商用可用",
+          "url": "https://unsplash.com/",
+          "icon": "assets/images/logos/unsplash.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Pexels",
+          "description": "免费图片视频素材库，质量精选",
+          "url": "https://www.pexels.com/",
+          "icon": "assets/images/logos/pexels.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "722d3693fc0b9344bb46ee220beac1b6",
+      "name": "字体资源",
+      "items": [
+        {
+          "title": "第一字体",
+          "description": "在线字体转换编辑生成",
+          "url": "https://www.diyiziti.com/",
+          "icon": "assets/images/logos/diyi.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Google Font",
+          "description": "Making the web more beautiful, fast, and open through great typography",
+          "url": "https://fonts.google.com/",
+          "icon": "assets/images/logos/googlefont.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Typekit",
+          "description": "Quality fonts from the world’s best foundries",
+          "url": "https://typekit.com/",
+          "icon": "assets/images/logos/typekit.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "站酷字体",
+          "description": "好看又好酷的字体",
+          "url": "https://www.zcool.com.cn/",
+          "icon": "assets/images/logos/zcool.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "我的世界字体",
+          "description": "Minecraft同款字体啦",
+          "url": "https://textcraft.net/",
+          "icon": "assets/images/logos/mc.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "方正字库",
+          "description": "方正字库官方网站",
+          "url": "http://www.foundertype.com/",
+          "icon": "assets/images/logos/Fondertype.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Fontsquirrel",
+          "description": "FREE fonts for graphic designers",
+          "url": "https://www.fontsquirrel.com/",
+          "icon": "assets/images/logos/fontsquirrel.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "FONTS2U",
+          "description": "Download free fonts for Windows and Macintosh",
+          "url": "https://fonts2u.com/",
+          "icon": "assets/images/logos/fonts2u.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "FontM",
+          "description": "Free Fonts",
+          "url": "http://fontm.com/",
+          "icon": "assets/images/logos/FontM.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Abstract Fonts",
+          "description": "Abstract Fonts (13,866 free fonts)",
+          "url": "http://www.abstractfonts.com/",
+          "icon": "assets/images/logos/abstractfonts.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "字由-让字更自由",
+          "description": "千款字体，一键换字，设计早下班，作品更出众",
+          "url": "https://www.hellofont.cn/",
+          "icon": "assets/images/logos/ziyou.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "113a0a745b4169af0f7646269c12ae66",
+      "name": "PPT资源",
+      "items": [
+        {
+          "title": "Slidesgo",
+          "description": "大量PPT模板免费下载",
+          "url": "https://slidesgo.com/",
+          "icon": "assets/images/logos/slidesgo.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "OfficePLUS",
+          "description": "OfficePLUS，微软Office官方在线模板网站",
+          "url": "https://www.officeplus.cn/",
+          "icon": "assets/images/logos/officeplus.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "OfficePLUS",
+          "description": "国外免费下载的PPT模板",
+          "url": "https://www.free-powerpoint-templates-design.com/",
+          "icon": "assets/images/logos/pptf.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Canva",
+          "description": "在线制作ppt，协作，免费下载",
+          "url": "https://www.canva.com/",
+          "icon": "assets/images/logos/canva.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "优品PPT",
+          "description": "高质量的模版，而且还有PPT图表，PPT背景图等资源",
+          "url": "http://www.ypppt.com/",
+          "icon": "assets/images/logos/you.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Tretars",
+          "description": "The best free Mockups from the Web",
+          "url": "http://www.tretars.com/ppt-templates",
+          "icon": "assets/images/logos/tretars.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "AI-PPT生成",
+          "description": "用ai生成的PPT的网页",
+          "url": "https://gamma.app/",
+          "icon": "assets/images/logos/gamma.png",
+          "target": "_blank"
+        },
+        {
+          "title": "美图秀秀AI",
+          "description": "告诉ai标题生成大纲PPT",
+          "url": "https://design.meitu.com/",
+          "icon": "assets/images/logos/meitudata.svg",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "0d635f7d6344865764bab31ae16574d7",
+      "name": "内网穿透",
+      "items": [
+        {
+          "title": "ZeroTier",
+          "description": "P2P点对点端口映射，交互延迟低",
+          "url": "https://www.zerotier.com/",
+          "icon": "assets/images/logos/zerotier.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Frp",
+          "description": "简单、高效的内网穿透工具",
+          "url": "https://gofrp.org/",
+          "icon": "assets/images/logos/frp.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Nps Npc",
+          "description": "强大的内网穿透代理服务器",
+          "url": "https://github.com/ehang-io/nps",
+          "icon": "assets/images/logos/nps.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "NatFrp",
+          "description": "樱花内网穿透，无需服务器映射",
+          "url": "https://www.natfrp.com/",
+          "icon": "assets/images/logos/natfrp.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "817b8be1cf8e4b7ca84bcbc8f2194dc7",
+      "name": "百科全书",
+      "items": [
+        {
+          "title": "iTellyou",
+          "description": "我告诉你，纯净的系统下载",
+          "url": "https://next.itellyou.cn/",
+          "icon": "assets/images/logos/itu.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "微PE工具箱",
+          "description": "使用工具箱制作U盘启动，快速重装系统",
+          "url": "https://www.wepe.com.cn",
+          "icon": "assets/images/logos/weipe.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "FileCr",
+          "description": "免费下载多款应用",
+          "url": "https://filecr.com/",
+          "icon": "assets/images/logos/filecr.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "草料二维码",
+          "description": "自定义二维码生成",
+          "url": "https://cli.im/",
+          "icon": "assets/images/logos/cli.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "手办维基",
+          "description": "手办搜索购买",
+          "url": "https://www.hpoi.net/hobby/",
+          "icon": "assets/images/logos/shouban.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "接码平台",
+          "description": "sms手机接码服务",
+          "url": "https://sms-activate.org/",
+          "icon": "assets/images/logos/sms.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Api接口",
+          "description": "稳定、快速、免费的 API 接口服务",
+          "url": "https://api.tomys.top/",
+          "icon": "assets/images/logos/api.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Wolfram Alpha",
+          "description": "计算知识引擎，数学科学查询神器",
+          "url": "https://www.wolframalpha.com/",
+          "icon": "assets/images/logos/wolfram.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Archive.org",
+          "description": "互联网时光机，访问历史网页快照",
+          "url": "https://archive.org/",
+          "icon": "assets/images/logos/archive.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "f2fab6f664ec4de27ea6c0696addd9b2",
+      "name": "磁力搜索",
+      "items": [
+        {
+          "title": "磁力猫",
+          "description": "磁力猫搜索",
+          "url": "https://xn--tfrs17es0d.xyz/",
+          "icon": "assets/images/logos/cilimao.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "海盗磁力",
+          "description": "磁力猫搜索",
+          "url": "https://thepiratebay.org/",
+          "icon": "assets/images/logos/haidao.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "BT1027",
+          "description": "磁力猫搜索",
+          "url": "https://bt1207dizhi.top/",
+          "icon": "assets/images/logos/bt1027.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Tgx",
+          "description": "磁力猫搜索",
+          "url": "https://tgx.rs/",
+          "icon": "assets/images/logos/tgx.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Gamer520",
+          "description": "游戏破解，switch模拟",
+          "url": "https://www.gamer520.com/",
+          "icon": "assets/images/logos/xxxxx520.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "13a0e1cc22ccc31b31242a6046230729",
+      "name": "谷歌插件",
+      "items": [
+        {
+          "title": "Wetab",
+          "description": "保存书签自定义你的新标签页",
+          "url": "https://www.wetab.link/",
+          "icon": "assets/images/logos/wetab.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Csspeeper",
+          "description": "预览和设计你的css",
+          "url": "https://csspeeper.com/",
+          "icon": "assets/images/logos/csspeeper.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Mustsee",
+          "description": "打开标签页发现世界每一个美丽的地方",
+          "url": "http://mustsee.earth/",
+          "icon": "assets/images/logos/mustsee.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Chatgpt-sidebar",
+          "description": "基于chatgpt打造的扩展插件",
+          "url": "https://chatgpt-sidebar.com/",
+          "icon": "assets/images/logos/sidebar.svg",
+          "target": "_blank"
+        },
+        {
+          "title": "购物党比价",
+          "description": "对比电商平台下价格与优惠券领取",
+          "url": "https://www.gwdang.com/v2/app/extension",
+          "icon": "assets/images/logos/gouw.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Bilibili助手",
+          "description": "哔哩哔哩小助手，可下载封面视频",
+          "url": "https://bilibilihelper.com/",
+          "icon": "assets/images/logos/bilizhushou.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "油猴插件",
+          "description": "一款多装多种丰富插件的扩展",
+          "url": "https://www.tampermonkey.net/",
+          "icon": "assets/images/logos/youhou.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "b8ff4f0137d36e55384b2ca047544b31",
+      "name": "AI应用",
+      "items": [
+        {
+          "title": "Newzone",
+          "description": "ChatGPT提示词收集",
+          "url": "https://ai.newzone.top/",
+          "icon": "assets/images/logos/newzone.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Mirai",
+          "description": "QQ开源机器人框架",
+          "url": "https://mirai.mamoe.net/",
+          "icon": "assets/images/logos/mirai.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "秘塔",
+          "description": "秘塔写作猫，帮助文案编写",
+          "url": "https://xiezuocat.com/",
+          "icon": "assets/images/logos/mita.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "ChatPDF",
+          "description": "Ai识别PDF内容并且发起对话",
+          "url": "https://www.chatpdf.com/",
+          "icon": "assets/images/logos/chatpdf.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Huggingface",
+          "description": "stable-diffusion-webui-2.1",
+          "url": "https://huggingface.co/spaces/stabilityai/stable-diffusion",
+          "icon": "assets/images/logos/hugging.svg",
+          "target": "_blank"
+        },
+        {
+          "title": "Webui-colab",
+          "description": "stable-diffusion-webui谷歌云部署",
+          "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
+          "icon": "assets/images/logos/colab.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Civitai",
+          "description": "Ai绘画训练模型",
+          "url": "https://civitai.com/",
+          "icon": "assets/images/logos/civitai.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Picrew",
+          "description": "Ai画头像",
+          "url": "https://picrew.me/en",
+          "icon": "assets/images/logos/picrew.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "BibiGPT",
+          "description": "Ai一键总结视频内容",
+          "url": "https://b.jimmylv.cn/",
+          "icon": "assets/images/logos/bibigpt.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "图片放大",
+          "description": "Ai智能图片放大",
+          "url": "https://bigjpg.com/",
+          "icon": "assets/images/logos/bigjpg.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "高清修复",
+          "description": "Ai高清修复图片",
+          "url": "https://jpghd.com/",
+          "icon": "assets/images/logos/jpghd.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Mindshow",
+          "description": "导入markdown结合chatgpt写作PPT",
+          "url": "https://mindshow.fun/",
+          "icon": "assets/images/logos/mindshow.svg",
+          "target": "_blank"
+        },
+        {
+          "title": "lalal",
+          "description": "智能人声与音乐分离",
+          "url": "https://www.lalal.ai/",
+          "icon": "assets/images/logos/lalal.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Booltool",
+          "description": "智能处理图像/视频处理",
+          "url": "https://booltool.boolv.tech/",
+          "icon": "assets/images/logos/booltool.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Claude",
+          "description": "Anthropic 家的 AI 助手，长文本超强",
+          "url": "https://claude.ai/",
+          "icon": "assets/images/logos/claude.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Gemini",
+          "description": "谷歌 Gemini AI，多模态能力强",
+          "url": "https://gemini.google.com/",
+          "icon": "assets/images/logos/gemini.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Midjourney",
+          "description": "AI 绘图，顶级画质",
+          "url": "https://www.midjourney.com/",
+          "icon": "assets/images/logos/midjourney.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Suno",
+          "description": "AI 音乐生成，一键创作完整歌曲",
+          "url": "https://suno.com/",
+          "icon": "assets/images/logos/suno.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "c5fd214cdd0d2b3b4272e73b022ba5c2",
+      "name": "Docker",
+      "items": [
+        {
+          "title": "恩山论坛",
+          "description": "中文IT技术交流社区",
+          "url": "https://www.right.com.cn/forum/",
+          "icon": "assets/images/logos/enshan.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "软路由固件",
+          "description": "OpenWrt可刷docker定制固件",
+          "url": "https://supes.top",
+          "icon": "assets/images/logos/gujian.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "docker加速",
+          "description": "解决无法拉取docker镜像问题",
+          "url": "https://dockerproxy.com/",
+          "icon": "assets/images/logos/docker加速.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "dockerhub",
+          "description": "docker镜像拉取网址",
+          "url": "https://hub.docker.com/",
+          "icon": "assets/images/logos/dockerhub.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "青龙面板",
+          "description": "docker部署青龙面板",
+          "url": "https://hub.docker.com/r/whyour/qinglong",
+          "icon": "assets/images/logos/qinglong.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Halo博客",
+          "description": "halo博客，强大的前后端结合",
+          "url": "https://hub.docker.com/r/halohub/halo",
+          "icon": "assets/images/logos/halo.ico",
+          "target": "_blank"
+        }
+      ]
+    },
+    {
+      "id": "a22caa838e8e6f1879ddfcc857e5a16d",
+      "name": "无法访问",
+      "items": [
+        {
+          "title": "jQuery之家",
+          "description": "扩展你的js插件库",
+          "url": "http://www.htmleaf.com/",
+          "icon": "assets/images/logos/js之家.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "像素大厨(已失效)",
+          "description": "从设计到代码，让团队高效协作",
+          "url": "https://www.fancynode.com.cn/",
+          "icon": "assets/images/logos/fancynode.png",
+          "target": "_blank"
+        },
+        {
+          "title": "电影天堂（DYTT8）",
+          "description": "电影天堂（DYTT8），高清电影下载",
+          "url": "https://www.dytt8.com/",
+          "icon": "assets/images/logos/电影天堂.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "H动漫",
+          "description": "偷偷看 别被家长发现了",
+          "url": "https://hanime1.me/",
+          "icon": "assets/images/logos/H动漫.jpg",
+          "target": "_blank",
+          "r18": true
+        },
+        {
+          "title": "禁漫天堂",
+          "description": "日韩漫本子聚集地",
+          "url": "https://18comic.vip/",
+          "icon": "assets/images/logos/jinman.ico",
+          "target": "_blank",
+          "r18": true
+        },
+        {
+          "title": "9dm论坛",
+          "description": "游戏破解论坛",
+          "url": "http://www.9damaogames.com/",
+          "icon": "assets/images/logos/9dm.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "字体传奇网",
+          "description": "中国首个字体品牌设计师交流网",
+          "url": "http://ziticq.com/",
+          "icon": "assets/images/logos/字体库.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "PPT模板之家",
+          "description": "PPT加直播、录制和分享—PPT+语音内容分享平台",
+          "url": "http://www.pptbz.com/",
+          "icon": "assets/images/logos/模板之家.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "Vega Ai（已失效）",
+          "description": "AI图像生成AI创作",
+          "url": "https://www.vegaai.net/",
+          "icon": "assets/images/logos/vega.ico",
+          "target": "_blank"
+        },
+        {
+          "title": "骷髅头固件（已删库）",
+          "description": "推荐使用骷髅头固件刷docker。R2s可用",
+          "url": "https://github.com/DHDAXCW/NanoPi-R2S-rk3328",
+          "icon": "assets/images/logos/kuloutou.ico",
+          "target": "_blank"
+        }
+      ]
+    }
+  ]
+}
